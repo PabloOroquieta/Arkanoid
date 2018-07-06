@@ -1,0 +1,5 @@
+Controles: raton y flechas para moverlo, M para mutear.
+Se pierde una vida cada vez que la bola cae fuera.
+cada destruccion de ladrillos son 20 puntos
+Hay 3 niveles, el segundo nivel implementa una funcionalidad extra (algunos ladrillos tienen 2 vidas y para desbloquearlos tienes que atacarles desde arriba.)
+Cuando te pasas los 3 niveles, o pierdes, sale un marcador con todos los puntos.
